@@ -1,0 +1,41 @@
+body{
+    background-color: #254c7c;
+}
+
+
+main{
+    margin-top: 50px;
+}
+#heading{
+    background-color: palevioletred;
+    margin-left: 25px;
+    width: 80%;
+    border: 5px solid black;
+    position: sticky;
+    top: 60px;
+}
+
+nav{
+    background-color: gray;
+    height: 80px;
+    text-align: center;
+    padding: 3%;
+}
+
+#number list {
+    border: 2px solid black;
+    color: white;
+}
+
+li:hover{
+    background-color: rgb(114, 63, 63);
+    border: black;
+    font-size: 25px;
+
+}
+
+footer{
+    background-color: rgb(214, 7, 7);
+    height: 45px;
+    text-align: center;
+}
